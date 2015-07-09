@@ -1,0 +1,2 @@
+# cdn.shopcosset
+cdn.shopcosset
